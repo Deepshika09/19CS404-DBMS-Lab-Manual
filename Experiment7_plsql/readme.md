@@ -54,7 +54,9 @@ END;
 ```
 ### Output
 
-![Screenshot](7a.png)
+<img width="607" height="159" alt="7a" src="https://github.com/user-attachments/assets/992a9b68-b509-475e-bd23-94fd958e46a3" />
+
+
 ---
 
 ## 2. Write a PL/SQL program to Calculate Sum of First N Natural Numbers
@@ -88,7 +90,9 @@ END;
 
 ```
 ### Output:
-![Screenshot](7b.png)
+
+<img width="595" height="169" alt="7b" src="https://github.com/user-attachments/assets/f604ff47-df18-4b7d-acae-520202a92485" />
+
 ---
 
 ## 3. Write a PL/SQL program to generate Fibonacci series
@@ -130,7 +134,9 @@ END;
 ```
 
 ### Output:
-![Screenshot](7c.png)
+
+<img width="644" height="284" alt="7c" src="https://github.com/user-attachments/assets/5e9b749d-6fbd-40c8-8fed-c2987ff564d7" />
+
 
 ---
 
@@ -169,7 +175,8 @@ END;
 ```
 
 ### Output:
-![Screenshot](7d.png)
+
+<img width="540" height="173" alt="7d" src="https://github.com/user-attachments/assets/3e85ec74-90fe-4562-9459-7964b5fabd7c" />
 
 ---
 
@@ -210,7 +217,9 @@ END;
 ```
 
 ### Output:
-![Screenshot](7e.png)
+
+<img width="690" height="161" alt="7e" src="https://github.com/user-attachments/assets/351c81c3-a116-43ed-a2aa-bc252dd463ae" />
+
 
 ## RESULT
 Thus, the PL/SQL programs using variables, conditionals, and loops were executed successfully.
